@@ -6,7 +6,7 @@
 </h3>
 <p>
     <samp>
-        Desarrollo de <strong>proyectos universitarios</strong><br>Estudiantes y maestros de la <strong><a href="https://www.ucap.edu.py/">UCAP</a></strong>
+        Desarrollo de <strong>proyectos universitarios</strong><br>Estudiantes y docentes de la <strong><a href="https://www.ucap.edu.py/">UCAP</a></strong>
         <br>
         Actualmente continuando el legado del <i>Aguara'i</i> en la <a href="https://www.robocarrace.com.br/">RoboCar Race</a>
         <br>
